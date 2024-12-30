@@ -1,4 +1,3 @@
-```markdown
 # DFA Minimization Tool
 
 This project implements a Deterministic Finite Automaton (DFA) minimization tool in Python. The program allows users to define a DFA and then generates its minimized equivalent using state reduction algorithms. It also provides a user-friendly interface to input states, alphabet, transition functions, start state, and accept states.
